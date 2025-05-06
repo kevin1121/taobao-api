@@ -4,6 +4,12 @@ uri：/api/product/search/taobao
 
 method：GET
 
+## Header
+
+| 名称          | 类型   | 是否必须 | 描述  | 示例值         |
+| :------------ | :----- | :------- | :---- | -------------- |
+| Authorization | String | 是       | Token | Bearer {token} |
+
 ## 参数
 
 | 名称    | 类型   | 是否必须 | 描述                   |

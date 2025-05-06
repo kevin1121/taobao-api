@@ -1,5 +1,17 @@
 # 获取1688商品详情
 
+uri：/api/product/item/1688?goods_id=809860480507
+
+Method：GET
+
+## Header
+
+| 名称          | 类型   | 是否必须 | 描述  | 示例值         |
+| :------------ | :----- | :------- | :---- | -------------- |
+| Authorization | String | 是       | Token | Bearer {token} |
+
+
+
 **参数**
 
 | 名称     | 类型 | 是否必须 | 描述   | 示例值       |
